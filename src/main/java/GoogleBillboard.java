@@ -22,7 +22,7 @@ public class GoogleBillboard {
 	public boolean isPrime(double d){
 		if(num < 2){
 		    return false;
-		  } else{
+		} else{
 		    for(int i = 2; i <= Math.sqrt(num); i++){
 		      if(num%i == 0){
 		        return false;
