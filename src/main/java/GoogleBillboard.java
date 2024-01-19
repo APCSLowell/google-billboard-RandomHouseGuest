@@ -12,7 +12,7 @@ public class GoogleBillboard {
 				break;
 			}
 		}
-		System.out.print(dnum);
+		System.out.println(dnum);
 	}
 	
 
